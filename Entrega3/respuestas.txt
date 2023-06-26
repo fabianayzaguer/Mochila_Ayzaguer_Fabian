@@ -1,0 +1,7 @@
+1 - un lenguaje de programacion requiere un compilador para ejecutarse en un sistema operativo 
+	determinado, si cambiamos el codigo a un sistema que no brinde las herramientas 
+	necesarias no va a funcionar. Algo parecido pasa con la arquitectura de la cpu.
+
+2 - VirtualBox es una solucuón de virtualización a nivel operativo o virtualizacion de host.
+
+3 - Si eso ocurre no debería dañar a las demas ya que son independientes.
