@@ -1,0 +1,17 @@
+1- TELNET
+pros:
+la buena compatibilidad y el acceso remoto
+contras:
+tiene riesgos de seguridad
+
+2 - SSH
+pros:
+es mas seguro
+contras:
+es un poco complejo
+
+3 - DIFERENCIAS
+telnet no cifra los datos cosa que si hace ssh
+telnet se utiliza para el acceso remoto y administracion de sistemas y 
+    ssh además se usa para la transferencia de archivos
+telnet no proporciona una autenticacion segura a diferencia de ssh
